@@ -1,0 +1,14 @@
+C:\Users\Michael-Abadi\Documents\Visual Studio 2015\Projects\MvcBootcamp\NorthwindRepository\bin\Debug\NorthwindRepository.dll
+C:\Users\Michael-Abadi\Documents\Visual Studio 2015\Projects\MvcBootcamp\NorthwindRepository\bin\Debug\NorthwindRepository.pdb
+C:\Users\Michael-Abadi\Documents\Visual Studio 2015\Projects\MvcBootcamp\NorthwindRepository\bin\Debug\DAL.dll
+C:\Users\Michael-Abadi\Documents\Visual Studio 2015\Projects\MvcBootcamp\NorthwindRepository\bin\Debug\EntityFramework.dll
+C:\Users\Michael-Abadi\Documents\Visual Studio 2015\Projects\MvcBootcamp\NorthwindRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Michael-Abadi\Documents\Visual Studio 2015\Projects\MvcBootcamp\NorthwindRepository\bin\Debug\DAL.pdb
+C:\Users\Michael-Abadi\Documents\Visual Studio 2015\Projects\MvcBootcamp\NorthwindRepository\bin\Debug\EntityFramework.xml
+C:\Users\Michael-Abadi\Documents\Visual Studio 2015\Projects\MvcBootcamp\NorthwindRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Michael-Abadi\Documents\Visual Studio 2015\Projects\MvcBootcamp\NorthwindRepository\obj\Debug\NorthwindRepository.csprojResolveAssemblyReference.cache
+C:\Users\Michael-Abadi\Documents\Visual Studio 2015\Projects\MvcBootcamp\NorthwindRepository\obj\Debug\NorthwindRepository.dll
+C:\Users\Michael-Abadi\Documents\Visual Studio 2015\Projects\MvcBootcamp\NorthwindRepository\obj\Debug\NorthwindRepository.pdb
+C:\Users\Michael-Abadi\Documents\Visual Studio 2015\Projects\MvcBootcamp\NorthwindRepository\bin\Debug\System.Web.Mvc.dll
+C:\Users\Michael-Abadi\Documents\Visual Studio 2015\Projects\MvcBootcamp\NorthwindRepository\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Michael-Abadi\Documents\Visual Studio 2015\Projects\MvcBootcamp\NorthwindRepository\bin\Debug\System.Web.Mvc.xml

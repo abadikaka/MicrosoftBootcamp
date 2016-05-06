@@ -1,0 +1,33 @@
+﻿@*@model MvcBootcamp.Web.Models.Customer*@
+@using MvcBootcamp.Web.Models
+
+@model IEnumerable<CustomerData>
+
+
+@*@{
+        //mendefinisikan layout default
+        Layout = null;
+    }
+*@
+
+
+@{
+    ViewBag.Title = "StronglyTypeView";
+}
+
+@*<h2>StronglyTypeView</h2>
+
+<p>Company Name : @Model.CompanyName</p>
+<p>City : @Model.City</p>
+*@
+
+<h3>Company List</h3>
+<ul>
+    @foreach (var cust in Model)
+    {
+        <li>@cust.CompanyName, @cust.City</li>
+    }
+</ul>
+
+@Html.Partial("_PartialViewDemo")
+@{Html.RenderPartial("_PartialViewDemo");}
